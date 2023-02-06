@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\bin\Debug\net6.0\Zadacha30.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\bin\Debug\net6.0\Zadacha30.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\bin\Debug\net6.0\Zadacha30.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\bin\Debug\net6.0\Zadacha30.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\bin\Debug\net6.0\Zadacha30.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\refint\Zadacha30.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\Zadacha30.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Zadacha30\obj\Debug\net6.0\ref\Zadacha30.dll
