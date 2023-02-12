@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\bin\Debug\net6.0\Rekursia.exe
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\bin\Debug\net6.0\Rekursia.deps.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\bin\Debug\net6.0\Rekursia.runtimeconfig.json
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\bin\Debug\net6.0\Rekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\bin\Debug\net6.0\Rekursia.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.AssemblyInfo.cs
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\refint\Rekursia.dll
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.pdb
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\Rekursia.genruntimeconfig.cache
+C:\Users\User\Desktop\Гиг брайн\Часть 3\Urok3\Rekursia\obj\Debug\net6.0\ref\Rekursia.dll

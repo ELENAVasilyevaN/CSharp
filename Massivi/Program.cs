@@ -158,19 +158,33 @@ int[,] pic = new int[,]
 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 };
 
-void PrintImage(int[,] image)
+void PrintImage(int[,] image) //метод печати на экран картинки
 {
- for (int i = 0; i < image.GetLength(0); i++)
- {
- for (int j = 0; j < image.GetLength(1); j++)
- {
- if(image[i,j] == 0) Console.Write($" "); //если i, j совпадают с ноликом, то печатаем пробел
- else Console.Write($"+");// иначе плюсик
- }
- Console.WriteLine();
- }
+    for (int i = 0; i < image.GetLength(0); i++)
+    {
+        for (int j = 0; j < image.GetLength(1); j++)
+        {
+            if (image[i, j] == 0) Console.Write($" "); //если i, j совпадают с ноликом, то печатаем пробел
+            else Console.Write($"+");// иначе плюсик
+        }
+        Console.WriteLine();
+    }
 }
 PrintImage(pic);
 
+void FillImage(int row, int col)  // метод закрашивания замкнутой области
+{
+    if (pic[row, col] == 0)
+    {
+        pic[row, col] = 1; //красим единичкой
+        FillImage(row - 1, col);// филлимадж вызывает сам себя. Вначале поднимаемся на строчку выше, 
+        FillImage(row, col - 1);//далее договорились идти в той же строке, но влево
+        FillImage(row + 1, col);//идти вниз
+        FillImage(row, col + 1);//идти вправо, оставаясь на той же строке
+    }
+}
+PrintImage(pic);
+FillImage(13, 13);//в качестве случайной точки взяли 13,13 и она должна быть внутри изображения
+PrintImage(pic);
 
-// 22 08
+
